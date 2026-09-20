@@ -1,2 +1,2 @@
-:HL["/-nutrition-cut-tracker/_next/static/chunks/1wo76x_ky9y01.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"YfIcXXz690AXfxPtsabHU"}
+:HL["/-nutrition-cut-tracker/_next/static/chunks/0l2xb3_puke7r.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"32G_KpYVO3-Dh-lzy6tsy"}
